@@ -1,0 +1,7 @@
+echo "# Babycrownbot" >> README.md 
+git init 
+git add README.md 
+git commit -m "first 
+comm" git branch -M main 
+git remote add origin https://github.com/Babycrownbot/Babycrownbot.git
+ git push - u asal
